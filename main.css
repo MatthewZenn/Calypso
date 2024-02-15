@@ -89,6 +89,10 @@ body, html {
   border: 2px solid var(--link);
 }
 
+#tags:focus {
+  border: 2px solid var(--link);
+}
+
 #generate {
   position: fixed;
   color: white;
